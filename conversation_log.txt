@@ -1,0 +1,16 @@
+[2026-06-19 16:08:36] User: who is the cm of kerala
+[2026-06-19 16:08:36] Bot: You said: who is the cm of kerala
+[2026-06-19 16:08:51] User: hello
+[2026-06-19 16:08:51] Bot: Hello! Nice to meet you.
+[2026-06-19 16:09:09] User: could you answer all my questions
+[2026-06-19 16:09:09] Bot: You said: could you answer all my questions
+[2026-06-19 17:17:35] User: hello
+[2026-06-19 17:17:35] Bot: Hello! Nice to meet you.
+[2026-06-19 17:20:42] User: hello 
+[2026-06-19 17:20:42] Bot: Hello! Nice to meet you.
+[2026-06-19 17:22:03] User: how are you
+[2026-06-19 17:22:03] Bot: I am doing great.
+[2026-06-19 17:22:29] User: who is the prime minister of india
+[2026-06-19 17:22:29] Bot: You said: who is the prime minister of india
+[2026-06-19 17:22:52] User: what is bread
+[2026-06-19 17:22:52] Bot: You said: what is bread
